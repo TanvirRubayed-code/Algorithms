@@ -3,3 +3,11 @@ Practice Problems
 https://cp-algorithms.com/graph/depth-first-search.html -------> Depth First Search
 
 https://cp-algorithms.com/graph/breadth-first-search.html --------> Breadth-first search
+
+
+
+Tutorials - DP on trees (playlist)
+https://www.youtube.com/watch?v=fGznXJ-LTbI&list=PLb3g_Z8nEv1j_BC-fmZWHFe6jmU_zv-8s 
+
+
+https://codeforces.com/blog/entry/67679  -----------> DP problem list
